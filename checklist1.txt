@@ -1,0 +1,10 @@
+registration
+email		passed
+social_netw	failed
+valid field	passed
+
+autorization
+user on		passed
+user off	passed
+vostanov_passw	passed
+valid field	passed
