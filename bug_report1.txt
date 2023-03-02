@@ -1,0 +1,17 @@
+name bug report		rep1
+opisanie err		opisanie......
+proect			name1
+component app		///
+num version		22.2.2
+seriosly bug		S4
+priority bug		P3
+status bug		new
+Autor			Kon
+Naznachenie		....
+okrujenie		Win10 Yandex Browser
+steps			step1
+			step2
+			step3
+fact result		
+ojid result		
+
